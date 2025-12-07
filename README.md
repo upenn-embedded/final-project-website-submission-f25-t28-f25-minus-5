@@ -107,9 +107,9 @@
 - **HRS-05 – PD trigger behavior**
   - **Description:** The selectedType-C PD trigger board shall negotiate 5 V / 9 V PD output with ± 5 % voltage tolerance.
   - **Outcome:** The PD trigger board negotiates a stable 5 V output; we confirmed the voltage with a multimeter under load. Further characterization at 9 V is possible if we change the amplifier or regulation scheme.
-  <p align="center">
-  <img src="/images/Test%20Pics/PD.png" width="40%">
-  </p>
+<p align="center">
+<img src="images/Test%20Pics/PD.png" width="40%">
+</p>
 - **HRS-06 / HRS-07 – Left-hand keypad input**
   - **Description:** The chord input pad shall use a3 × 4 matrix (12 keys), supporting 12 chord selections for each chord group. The variation keys and auto key shall use three keys in a 1 x 4 matrix keypad, supporting selection of 2 chord groups and auto mode.
   - **Outcome:** The 3×4 chord matrix and 1×4 mode/group matrix are fully wired and functional. Serial logs confirm that all 12 chord keys plus modifier keys produce the expected chord IDs and mode changes.
