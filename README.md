@@ -14,7 +14,7 @@
 
 ## Final Project Report
 
-### 1. Video
+### 1. 🎬 Demo Video
 
 [https://youtu.be/zpCT-RBZZeE](https://youtu.be/zpCT-RBZZeE)
 
@@ -22,26 +22,35 @@
 
 ### 2. Images
 
-<p>
-  <img src="./images/Product%20Images/PI1.png" width="40%">
-  <img src="./images/Product%20Images/PI2.png" width="40%">
+#### MVP: Cupboard Prototype
+<p align="center">
+ <img src="images/mvp.jpg" width="60%">
 </p>
 
-![PI1](./images/Product%20Images/PI1.png)
+#### Final: Acrylic Prototype
+<p align="center">
+ <img src="images/Product%20Images/PI11.jpg" width="81%">
+</p>
+<p align="center">
+  <img src="images/Product%20Images/PI10.jpg" width="40%">
+  <img src="images/Product%20Images/PI3.png" width="40%">
+</p>
 
-![PI2](./images/Product%20Images/PI2.png)
 
-![PI3](./images/Product%20Images/PI3.png)
 
-![PI4](./images/Product%20Images/PI4.png)
 
-![PI5](./images/Product%20Images/PI5.png)
+#### Inner Structure
+<p align="center">
+ <img src="images/Product%20Images/PI9.jpg" width="18%">
+  <img src="images/Product%20Images/PI5.png" width="32%">
+  <img src="images/Product%20Images/PI6.png" width="32%">
+</p>
 
-![PI6](./images/Product%20Images/PI6.png)
-
-![PI7](./images/Product%20Images/PI7.png)
-
-![PI8](./images/Product%20Images/PI8.png)
+#### Case Design
+<p align="center">
+  <img src="images/Product%20Images/PI12.jpg" width="32%">
+  <img src="images/Product%20Images/PI13.jpg" width="57%">
+</p>
 
 ---
 
@@ -86,7 +95,9 @@
 
   - **Description:** The ESP32 shall output audio via I²S to a speaker driver, and the generated sound amplitude shall be verified to match expected guitar sound patterns within.
   - **Outcome:** The ESP32 sends 16-bit PCM via I²S to the MAX98357A. Oscilloscope checks and listening tests confirm the waveforms have the expected pluck envelope: fast attack, exponential decay, and appropriate dynamic range for low and high intensity strokes.
-  - ![sound](./images/Test%20Pics/SoundDriver.png)
+<p align="center">
+  <img src="images/Test%20Pics/SoundDriver.png" width="40%">
+</p>
 
 ---
 
@@ -144,10 +155,10 @@ Beyond pure tech, we gained experience in **casework and physical product thinki
 
 Several things worked particularly well:
 
-* **Team collaboration** : Our division of labor between “input & control” (ATmega) and “audio engine” (ESP32) was clear from the beginning. Everyone owned a module, and integration was smooth because we agreed early on the UART protocol and timing expectations.
-* **Core firmware and algorithms** : Both the keypad/IMU side and the ESP32 synth side behaved as we intended. The data pipeline from motion + chord → UART → guitar engine ended up being robust and low-latency.
-* **Audio quality** : The final guitar sound is much more realistic than we initially expected. The combination of careful parameter tuning and strum logic delivers a convincing pop-style accompaniment, not just a “toy beep” demo.
-* **Meeting core requirements** : All the major SRS/HRS goals—gesture detection, chord selection, reliable communication, real-time audio—were met on the prototype hardware.
+1. **Team collaboration** : Our division of labor between “input & control” (ATmega) and “audio engine” (ESP32) was clear from the beginning. Everyone owned a module, and integration was smooth because we agreed early on the UART protocol and timing expectations.
+2. **Core firmware and algorithms** : Both the keypad/IMU side and the ESP32 synth side behaved as we intended. The data pipeline from motion + chord → UART → guitar engine ended up being robust and low-latency.
+3. **Audio quality** : The final guitar sound is much more realistic than we initially expected. The combination of careful parameter tuning and strum logic delivers a convincing pop-style accompaniment, not just a “toy beep” demo.
+4. **Meeting core requirements** : All the major SRS/HRS goals—gesture detection, chord selection, reliable communication, real-time audio—were met on the prototype hardware.
 
 #### Accomplishments we are proud of
 
