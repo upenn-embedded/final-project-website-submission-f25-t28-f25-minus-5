@@ -1,7 +1,5 @@
-# Final Project — T28 Minus.5
-
+# ⚡️ ESE519 Final Project - Air Guitar 🎸
 **Team Number: #28**
-
 **Team Name: Minus.5**
 
 | Team Member Name |     Email Address     |
@@ -10,14 +8,11 @@
 |   Zicong Zhang   | zhang89@seas.upenn.edu |
 |   Xiuwen Zheng   | xiuwenz@seas.upenn.edu |
 
-**GitHub Repository URL: https://github.com/upenn-embedded/final-project-f25-f25_final_project_t28_minus-5.git [(Click at here)](https://github.com/upenn-embedded/final-project-f25-f25_final_project_t28_minus-5.git)**
+**GitHub Repository URL:** [(Click at here)](https://github.com/upenn-embedded/final-project-f25-f25_final_project_t28_minus-5.git)
 
-**GitHub Pages Website URL:** [for final submission]*
+**GitHub Pages Website URL:** [(Click at here)](https://upenn-embedded.github.io/final-project-website-submission-f25-t28-f25-minus-5/)
 
 ## Final Project Report
-
-Don't forget to make the GitHub pages public website!
-If you’ve never made a GitHub pages website before, you can follow this webpage (though, substitute your final project repository for the GitHub username one in the quickstart guide):  [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
 
 ### 1. Video
 
