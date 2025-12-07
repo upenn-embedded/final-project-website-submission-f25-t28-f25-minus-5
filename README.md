@@ -107,7 +107,7 @@
 - **HRS-05 – PD trigger behavior**
   - **Description:** The selectedType-C PD trigger board shall negotiate 5 V / 9 V PD output with ± 5 % voltage tolerance.
   - **Outcome:** The PD trigger board negotiates a stable 5 V output; we confirmed the voltage with a multimeter under load. Further characterization at 9 V is possible if we change the amplifier or regulation scheme.
-  <p style="text-align:center;">
+  <p align=center>
   <img src="/images/Test%20Pics/PD.png" width="40%">
   </p>
 - **HRS-06 / HRS-07 – Left-hand keypad input**
