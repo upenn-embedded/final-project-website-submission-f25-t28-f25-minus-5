@@ -116,13 +116,13 @@
 - **HRS-09 – IMU motion sensing**
   - **Description:** A 6-DOFIMU shall capture strumming motion via I²C at 400 kHz. Gyroscope range: ± 500 °/s, noise < 5 °/s RMS.
   - **Outcome:** The 6-DOF IMU operates over I²C at 400 kHz. Logged raw gyro traces show smooth response with low noise relative to strum amplitudes, and strum events are detected in real time without missing strokes.
-  - <p align="center">
+<p align="center">
 <img src="images/Test%20Pics/IMU%20Motion.png" width="40%">
 </p>
 - **HRS-10 – Sound output (MAX98357A + speaker)**
   - **Description:** The (Audio Amplifier / Driver)MAX98357A Class-D I²S amplifier shall convert 16-bit / 44.1 kHz digital audio to analog, driving a 4 Ω / 3 W speaker. Efficiency ≥ 85 %, THD+N ≤ 1 %.
   - **Outcome:** The MAX98357A I²S amplifier drives a 4 Ω speaker from the ESP32's 16-bit PCM stream. Listening tests at various volumes show clean audio with no obvious clipping or instability.
-  - <p align="center">
+<p align="center">
 <img src="images/Test%20Pics/SoundDriver.png" width="40%">
 </p>
 
