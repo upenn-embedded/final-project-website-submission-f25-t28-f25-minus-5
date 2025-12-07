@@ -22,6 +22,11 @@
 
 ### 2. Images
 
+<p>
+  <img src="./images/Product%20Images/PI1.png" width="40%">
+  <img src="./images/Product%20Images/PI2.png" width="40%">
+</p>
+
 ![PI1](./images/Product%20Images/PI1.png)
 
 ![PI2](./images/Product%20Images/PI2.png)
