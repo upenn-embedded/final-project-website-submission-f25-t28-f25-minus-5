@@ -1,0 +1,8 @@
+/.generated_files
+/avr-printf-main
+/build
+/debug
+/dist
+/Makefile
+/nbproject
+/queuelogs
