@@ -14,7 +14,7 @@
 
 **GitHub Repository URL: https://github.com/upenn-embedded/final-project-f25-f25_final_project_t28_minus-5.git [(Click at here)](https://github.com/upenn-embedded/final-project-f25-f25_final_project_t28_minus-5.git)**
 
-**GitHub Pages Website URL:** [for final submission]*
+**GitHub Pages Website URL:** **https://upenn-embedded.github.io/final-project-website-submission-f25-t28-f25-minus-5/** [(Click at Here)](https://upenn-embedded.github.io/final-project-website-submission-f25-t28-f25-minus-5/)
 
 ## Final Project Proposal
 
