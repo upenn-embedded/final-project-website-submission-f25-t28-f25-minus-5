@@ -212,4 +212,4 @@ Overall, the Air Guitar project taught us how to blend hardware, firmware, algor
 
 ## References
 
-Fill in your references here as you work on your final project. Describe any libraries used here.
+- All codes are original with references to uart & I2C provided in labs, and Karplus–Strong algorithm.
